@@ -1,0 +1,1 @@
+minisat ./output/instances/$1.cnf ./output/solver_minisat/$1.txt > ./output/solver_minisat/$1.minisat.txt

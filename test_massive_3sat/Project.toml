@@ -1,0 +1,7 @@
+name = "test_massive_3sat"
+uuid = "f96f5488-dd88-45d4-a7da-17160bd096c9"
+authors = ["Ricardo M. Biot "]
+version = "0.1.0"
+
+[deps]
+SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
